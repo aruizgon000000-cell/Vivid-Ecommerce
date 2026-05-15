@@ -40,7 +40,7 @@ The project was built to simulate a modern digital commerce experience using lig
 
 ### Desktop Experience
 
-/screenshots/desktop-home.jpg
+<img src="screenshots/desktop-home.webp" width="900">
 
 
 ### Mobile Experience
