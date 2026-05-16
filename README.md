@@ -57,9 +57,9 @@ The project was built to simulate a modern digital commerce experience using lig
 
 ### Admin Dashboard
 
-
+```txt
 /screenshots/admin-dashboard.png
-
+```
 
 ---
 
