@@ -45,8 +45,8 @@ The project was built to simulate a modern digital commerce experience using lig
 
 ### Mobile Experience
 
-<img src="screenshots/vistamovil1.webp" width="900">
-<img src="screenshots/vistamovil2.webp" width="900">
+<img src="screenshots/vistamovil1.webp" width="382">
+<img src="screenshots/vistamovil2.webp" width="390">
 
 ### Product View
 
