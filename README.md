@@ -58,7 +58,7 @@ The project was built to simulate a modern digital commerce experience using lig
 ### Admin Dashboard
 
 <img src="screenshots/admin-dashboard.webp" width="900">
-
+<img src="screenshots/admin-products.webp" width="900">
 ---
 
 ## Tech Stack
