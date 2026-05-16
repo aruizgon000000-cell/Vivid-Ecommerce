@@ -51,9 +51,8 @@ The project was built to simulate a modern digital commerce experience using lig
 
 ### Product View
 
-```txt
-/screenshots/product-page.png
-```
+<img src="screenshots/products.webp" width="900">
+<img src="screenshots/demo-color.webp" width="900">
 
 ### Admin Dashboard
 
